@@ -3,7 +3,7 @@
 ### Install
 ```
 pip install -r requirements.txt
- main.py
+main.py
  ```
 ### Todo
   1. An realtime 3d object antimation based on the gyro values.
